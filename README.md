@@ -1,4 +1,4 @@
-# SPPrbFeladat
+# SPProbaFeladat
 
 iOS app (SwiftUI) showcasing Flickr photo search and details with a clean architecture split into `Presentation`, `Domain`, and `Data` layers.
 
